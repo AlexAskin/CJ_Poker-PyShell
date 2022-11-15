@@ -1,0 +1,22 @@
+CJ Poker Game.
+
+The main differences are that each card corresponds
+to its own specific denomination:
+
+Kings  - 13
+Queens - 12
+Jacks  - 11
+Tens   - 10
+Nines  - 9
+Eights - 8
+Sevens - 7
+Sixes  - 6
+Fives  - 5 
+Fours  - 4
+Threes - 3
+Twos   - 2
+Aces   - 1
+
+ 
+
+So GOODLUCK and have FUN!!!
